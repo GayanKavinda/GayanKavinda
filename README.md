@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayankavinda" alt="gayankavinda" /></a> </p>
 
-- 🔭 I’m currently working on **Aluth Gamak Aluth Ratak**
+- 🔭 I’m currently working on **Aluth Gamak Aluth Ratak and Record Room Project for Ministry of Home Affairs in Sri Lanka**
 
-- 🌱 I’m currently learning **React, Laravel, GitHub, Amazon AWS, Linux, Cloud Computing, Adobe**
+- 🌱 I’m currently learning **React, Laravel, GitHub, Amazon AWS, Linux, Cloud Computing, Adobe, Authentications, Project Management Tools**
 
 - 💬 Ask me about **Frontend, Backend, QA, Cloud, Web, OOP Concepts**
 
