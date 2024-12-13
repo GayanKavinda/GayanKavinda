@@ -1,3 +1,7 @@
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Gayan Kavinda</h1>
 <h3 align="center">Passionate IT Fresh Graduate with 1 year of professional experience in software development, testing, and cloud technologies. Dedicated to delivering innovative solutions, fostering teamwork, and driving impactful contributions to achieve organizational success.</h3>
 
@@ -7,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Aluth Gamak Aluth Ratak, Record Room Management System, and other projects for the Ministry of Home Affairs in Sri Lanka**
+- 🔭 I’m currently working on **Aluth Gamak Aluth Ratak, Record Room Management System, and other projects for the Ministry of Home Affairs in Sri Lanka** 
 
 - 🌱 I’m currently learning **React, Laravel, Amazon AWS, Linux, Cloud Computing, Adobe Suite, Authentication Systems, and Project Management Tools**
 
@@ -55,7 +59,14 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GayanKavinda&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+----
 
 📫 Get in Touch
 Want to collaborate or just chat about technology? Feel free to reach out!
