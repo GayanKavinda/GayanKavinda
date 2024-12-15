@@ -61,9 +61,10 @@
 
 ----
 
-<p align="center">
-  ![snake gif](https://github.com/GayanKavinda/GayanKavinda/blob/output/github-snake-dark.svg)
-</p>
+<!-- Snake -->
+<div align="center">
+    ![snake gif](https://github.com/GayanKavinda/GayanKavinda/blob/output/github-snake-dark.svg)
+</div>
 
 ----
 
