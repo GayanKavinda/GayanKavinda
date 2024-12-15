@@ -62,8 +62,7 @@
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/GayanKavinda/GayanKavinda/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  ![snake gif](https://github.com/GayanKavinda/GayanKavinda/blob/output/github-snake-dark.svg)
 </p>
 
 ----
@@ -79,3 +78,5 @@ Want to collaborate or just chat about technology? Feel free to reach out!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
+
+
