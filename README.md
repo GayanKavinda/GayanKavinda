@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **gayankavinda98v.lk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16wmjV-cy3DCR8GanALE6o2fTYzzYzBbY/view?usp=sharing](https://drive.google.com/file/d/16wmjV-cy3DCR8GanALE6o2fTYzzYzBbY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16wmjV-cy3DCR8GanALE6o2fTYzzYzBbY/view?usp=sharing](Resume Link)
 
 - ⚡ Fun fact **I enjoy traveling, gaming, singing, and learning about new technologies. I’m always active on social media and love connecting with people!**
 
