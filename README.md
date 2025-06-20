@@ -11,9 +11,9 @@
 
 ---
 
-- 🔭 I’m currently working on **Aluth Gamak Aluth Ratak, Record Room Management System, and other projects for the Ministry of Home Affairs in Sri Lanka** 
+- 🔭 I’m currently working on **ICTA Room Booking System for the Ministry of Ministry of Digital Economy in Sri Lanka** 
 
-- 🌱 I’m currently learning **React, Laravel, Amazon AWS, Linux, Cloud Computing, Adobe Suite, Authentication Systems, and Project Management Tools**
+- 🌱 I’m currently learning **React, Laravel, Amazon AWS, Linux, Cloud Computing, Adobe Suite, Authentication Systems, and Project Management Tools and etc**
 
 - 👯 I’m looking to collaborate on **open-source projects, cloud computing solutions, and innovative web development initiatives**
 
