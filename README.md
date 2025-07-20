@@ -1,135 +1,238 @@
-<!-- Minimalist Header -->
+<!-- Glassmorphism Style Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Gayan%20Kavinda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Cloud%20Engineer&descSize=16&descAlignY=55" />
+</div>
+
 <div align="center">
   
-# Gayan Kavinda
-### Full-Stack Developer • Cloud Engineer • Innovation Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+digital+experiences;Crafting+scalable+solutions;Always+learning+%26+growing&font=JetBrains+Mono&center=true&width=380&height=50&color=6366f1&size=20&pause=1000&repeat=true" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=gayankavinda&color=6366f1&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/-Connect-6366f1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gayan%20kavinda)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://gayankv-profile.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-6366f1?style=flat-square&logo=gmail&logoColor=white)](mailto:gayankavinda98v.lk@gmail.com)
-
+  <!-- Animated typing text with glassmorphism effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=24&pause=1000&color=6C63FF&background=FF000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+digital+workspace+%F0%9F%92%AB;I+craft+beautiful%2C+scalable+solutions;Always+pushing+the+boundaries+of+tech+%F0%9F%9A%80" alt="Typing SVG" />
+  
+  <!-- Profile stats with glassmorphism badges -->
+  <p>
+    <img src="https://img.shields.io/badge/🌍_Based_in-Sri_Lanka-4f46e5?style=for-the-badge&labelColor=312e81&color=6366f1" />
+    <img src="https://img.shields.io/badge/💼_Experience-1+_Years-10b981?style=for-the-badge&labelColor=166534&color=22c55e" />
+    <img src="https://img.shields.io/badge/🎯_Focus-Full_Stack-f59e0b?style=for-the-badge&labelColor=92400e&color=fbbf24" />
+  </p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=gayankavinda&color=6366f1&style=for-the-badge&label=Profile+Views)
+  
 </div>
 
 ---
 
 <div align="center">
 
-## ✨ About
+## 🧬 DNA Breakdown
 
 </div>
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Creative Side
+```css
+.gayan-frontend {
+  framework: ["React", "Vue.js"];
+  styling: ["Tailwind CSS", "SASS", "Bootstrap"];
+  design: ["Figma", "Adobe Creative Suite"];
+  animation: ["Framer Motion", "CSS Animations"];
+  responsive: "Mobile-first approach";
+}
+```
+
+### ☁️ Cloud Architecture
+```yaml
+cloud_platforms:
+  - AWS: "Solutions Architecture"
+  - Azure: "DevOps & Deployment"
+  - Docker: "Containerization"
+  
+infrastructure:
+  - "Scalable web applications"
+  - "CI/CD pipelines"
+  - "Database optimization"
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Backend Power
 ```javascript
-const gayan = {
-    location: "Sri Lanka 🇱🇰",
-    role: "Full-Stack Developer",
-    experience: "1+ years",
-    currentFocus: "ICTA Room Booking System - Ministry of Digital Economy",
-    
-    techStack: {
-        frontend: ["React", "Vue.js", "JavaScript", "HTML/CSS", "Tailwind"],
-        backend: ["Laravel", "Node.js", "PHP"],
-        database: ["MySQL", "MongoDB", "Firebase"],
-        cloud: ["AWS", "Azure", "Docker"],
-        tools: ["Git", "Postman", "Figma", "Jira"]
-    },
-    
-    currentlyLearning: ["Advanced React", "AWS Architecture", "Cloud-Native Development"],
-    goals2025: ["Master Microservices", "Contribute to Open Source", "Build SaaS Products"],
-    
-    whenNotCoding: ["🎮 Gaming", "✈️ Traveling", "🎵 Singing", "📚 Learning"],
-    
-    getInTouch: () => "Let's build something amazing together!"
+const backendSkills = {
+  languages: ["PHP", "JavaScript", "Python"],
+  frameworks: ["Laravel", "Node.js", "Express"],
+  databases: ["MySQL", "MongoDB", "Firebase"],
+  apis: ["REST", "GraphQL"],
+  testing: ["Unit Testing", "Integration Testing"]
 };
 ```
 
-<div align="center">
+### 🔧 Development Tools
+```bash
+# Daily toolkit
+- Version Control: Git & GitHub
+- API Testing: Postman, Insomnia  
+- Project Management: Jira, Trello
+- Code Editor: VS Code
+- Terminal: iTerm2 with Oh My Zsh
+```
 
-## 🛠 Tech Stack
-
-<!-- Tech Icons in a clean grid -->
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-## 📊 GitHub Stats
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GayanKavinda&show_icons=true&theme=minimal&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=64748b" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GayanKavinda&theme=minimal&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+## 🚀 Technology Spectrum
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanKavinda&layout=compact&theme=minimal&hide_border=true&title_color=6366f1&text_color=64748b" />
+<!-- Glassmorphism-style tech grid -->
+<div align="center">
 
-## 🎯 Current Focus
+### Frontend Universe
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=20232a" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=2c3e50" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2d79c7" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0f172a" />
+</p>
+
+### Backend Dimension  
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8b0000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2d5a2d" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=4f4f7a" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=8b0049" />
+</p>
+
+### Data Realm
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2d5a87" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2d5a2f" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=f57c00" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=8b1a1a" />
+</p>
+
+### Cloud Galaxy
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a5490" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1e4a73" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000" />
+</p>
 
 </div>
 
-> **ICTA Room Booking System** - Developing a comprehensive booking management solution for the Ministry of Digital Economy in Sri Lanka. Built with Laravel backend, React frontend, and deployed on AWS infrastructure.
+## 📊 Performance Analytics
+
+<!-- Beautiful stats with glassmorphism theme -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GayanKavinda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GayanKavinda&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c63ff&ring=6c63ff&fire=fbbf24&currStreakLabel=6c63ff" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanKavinda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=GayanKavinda&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c63ff&line=6c63ff&point=fbbf24" />
+</div>
+
+## 🎯 Current Mission
+
+</div>
+
+<div align="center">
+  
+```diff
++ 🚀 Building ICTA Room Booking System for Ministry of Digital Economy
++ 📚 Mastering AWS Solutions Architecture
++ 🌟 Contributing to Open Source Projects
++ 💡 Exploring AI/ML Integration in Web Development
++ 🎨 Perfecting UI/UX Design Skills
+```
+
+</div>
 
 <div align="center">
 
-## 💡 Let's Connect
+## 🌟 Featured Work
 
-Looking to collaborate on innovative projects or discuss technology? I'm always excited to connect with fellow developers and explore new opportunities.
+<table>
+<tr>
+<td width="33%" align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gayan%20kavinda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gayankv-profile.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayankavinda98v.lk@gmail.com)
+### 🏢 ICTA Booking System
+**Government Project**
+
+<img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=flat-square&logo=laravel" />
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/AWS-Deployed-232F3E?style=flat-square&logo=amazon-aws" />
+
+*Enterprise-level room booking solution with real-time availability, multi-user access, and comprehensive admin controls.*
+
+</td>
+<td width="33%" align="center">
+
+### 🌐 Portfolio Website
+**Personal Project**
+
+<img src="https://img.shields.io/badge/React-Framework-61DAFB?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/Tailwind-Styling-06B6D4?style=flat-square&logo=tailwind-css" />
+<img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel" />
+
+*Modern, responsive showcase with interactive elements and smooth animations.*
+
+**[🔗 Live Demo](https://gayankv-profile.vercel.app/)**
+
+</td>
+<td width="33%" align="center">
+
+### 🔮 Future Projects
+**Coming Soon**
+
+<img src="https://img.shields.io/badge/SaaS-Platform-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Integration-FF6B9D?style=flat-square" />
+<img src="https://img.shields.io/badge/Open-Source-22C55E?style=flat-square" />
+
+*Innovative solutions combining cloud technologies with modern development practices.*
+
+</td>
+</tr>
+</table>
+
+## ⚡ Quick Connect
+
+<p>
+  <a href="https://linkedin.com/in/gayan kavinda">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" />
+  </a>
+  <a href="https://gayankv-profile.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Projects-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=5b21b6" />
+  </a>
+  <a href="mailto:gayankavinda98v.lk@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c5221f" />
+  </a>
+</p>
+
+### 💬 Available For
+- 🤝 **Collaborations** on innovative web projects
+- 🚀 **Consulting** on full-stack development
+- 💡 **Mentoring** junior developers
+- 🌟 **Open Source** contributions
 
 ---
 
-*"Building the future, one commit at a time."*
+<div align="center">
+  
+*"Code is poetry written for machines to understand and humans to maintain"*
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!+%F0%9F%8C%9F;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1&font=SF+Pro+Display&center=true&width=500&height=50&color=6c63ff&size=16&pause=2000" />
+
+</div>
+
+</div>
+
+<!-- Glassmorphism Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
 </div>
