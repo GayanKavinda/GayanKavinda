@@ -1,217 +1,238 @@
-<!-- Animated Header -->
+<!-- Glassmorphism Style Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,20:4ECDC4,40:45B7D1,60:96CEB4,80:FECA57,100:FF9FF3&height=300&section=header&text=Gayan%20Kavinda&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Cloud%20Engineer&descSize=18&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Gayan%20Kavinda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Cloud%20Engineer&descSize=16&descAlignY=55" />
 </div>
 
-<!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+digital+realm!;Full-Stack+Developer+%7C+1%2B+years;React+%7C+Laravel+%7C+AWS+Expert;Always+learning+new+technologies;Let's+build+something+amazing!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
+  
+  <!-- Animated typing text with glassmorphism effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=24&pause=1000&color=6C63FF&background=FF000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+digital+workspace+%F0%9F%92%AB;I+craft+beautiful%2C+scalable+solutions;Always+pushing+the+boundaries+of+tech+%F0%9F%9A%80" alt="Typing SVG" />
+  
+  <!-- Profile stats with glassmorphism badges -->
+  <p>
+    <img src="https://img.shields.io/badge/🌍_Based_in-Sri_Lanka-4f46e5?style=for-the-badge&labelColor=312e81&color=6366f1" />
+    <img src="https://img.shields.io/badge/💼_Experience-1+_Years-10b981?style=for-the-badge&labelColor=166534&color=22c55e" />
+    <img src="https://img.shields.io/badge/🎯_Focus-Full_Stack-f59e0b?style=for-the-badge&labelColor=92400e&color=fbbf24" />
+  </p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=gayankavinda&color=6366f1&style=for-the-badge&label=Profile+Views)
+  
 </div>
 
-<!-- Profile Views & Badges -->
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gayankavinda&label=Profile%20views&color=f75c7e&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/GayanKavinda?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20PHP%20%7C%20Python-ff69b4" />
+
+## 🧬 DNA Breakdown
+
 </div>
 
-<br/>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<!-- About Me Section with Cards -->
-<div align="center">
-
-## 🚀 About Me
-
-```yaml
-name: Gayan Kavinda
-located_in: Sri Lanka
-current_job: Full-Stack Developer
-education: ["Bachelor's in IT", "Self-taught Developer"]
-company: Ministry of Digital Economy
-
-fields_of_interests: ["Web Development", "Cloud Computing", "Open Source", "UI/UX"]
-technical_background: ["Full-Stack Development", "DevOps", "Quality Assurance", "System Design"]
-currently_learning: ["React Advanced Patterns", "AWS Solutions Architecture", "Microservices"]
-will_learn_next: ["Kubernetes", "Machine Learning", "Blockchain"]
-
-hobbies: ["Gaming", "Traveling", "Singing", "Tech Blogging"]
+### 🎨 Creative Side
+```css
+.gayan-frontend {
+  framework: ["React", "Vue.js"];
+  styling: ["Tailwind CSS", "SASS", "Bootstrap"];
+  design: ["Figma", "Adobe Creative Suite"];
+  animation: ["Framer Motion", "CSS Animations"];
+  responsive: "Mobile-first approach";
+}
 ```
 
-</div>
-
-<!-- Current Work -->
-<div align="center">
-
-## 💼 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-**🔭 Working On**
-- ICTA Room Booking System
-- Ministry of Digital Economy Solutions
-- Open Source Contributions
-
-**🌱 Learning**
-- Advanced React Patterns
-- AWS Solutions Architecture
-- Laravel Best Practices
-- Cloud-Native Development
+### ☁️ Cloud Architecture
+```yaml
+cloud_platforms:
+  - AWS: "Solutions Architecture"
+  - Azure: "DevOps & Deployment"
+  - Docker: "Containerization"
+  
+infrastructure:
+  - "Scalable web applications"
+  - "CI/CD pipelines"
+  - "Database optimization"
+```
 
 </td>
-<td width="50%">
-
-**👯 Looking to Collaborate**
-- Open Source Projects
-- Web Development Initiatives  
-- Cloud Computing Solutions
-- Innovative Tech Projects
-
-**💬 Ask Me About**
-- Full-Stack Development
-- Quality Assurance
-- Cloud Technologies
-- Project Management
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Tech Stack with Animated Icons -->
-<div align="center">
-
-## 🛠️ Tech Arsenal
-
-### 🎨 Frontend Mastery
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,bootstrap,sass&theme=dark" />
-</p>
+<td width="50%" valign="top">
 
 ### ⚡ Backend Power
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,php,python,graphql&theme=dark" />
-</p>
+```javascript
+const backendSkills = {
+  languages: ["PHP", "JavaScript", "Python"],
+  frameworks: ["Laravel", "Node.js", "Express"],
+  databases: ["MySQL", "MongoDB", "Firebase"],
+  apis: ["REST", "GraphQL"],
+  testing: ["Unit Testing", "Integration Testing"]
+};
+```
 
-### 🗄️ Database Wizardry
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,redis&theme=dark" />
-</p>
+### 🔧 Development Tools
+```bash
+# Daily toolkit
+- Version Control: Git & GitHub
+- API Testing: Postman, Insomnia  
+- Project Management: Jira, Trello
+- Code Editor: VS Code
+- Terminal: iTerm2 with Oh My Zsh
+```
 
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,vercel&theme=dark" />
-</p>
-
-### 🎨 Design & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,postman&theme=dark" />
-</p>
-
-</div>
-
-<!-- GitHub Stats Cards -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GayanKavinda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GayanKavinda&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanKavinda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=GayanKavinda&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
-
-</div>
-
-<!-- Achievements -->
-<div align="center">
-
-## 🏆 Achievements & Highlights
-
-<img src="https://github-profile-trophy.vercel.app/?username=GayanKavinda&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
-
-<!-- Custom Achievement Badges -->
-<img src="https://img.shields.io/badge/⚡-Full--Stack%20Developer-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/☁️-Cloud%20Enthusiast-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎯-Problem%20Solver-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀-Innovation%20Driver-red?style=for-the-badge" />
-
-</div>
-
-<!-- Projects Showcase -->
-<div align="center">
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🏢 ICTA Room Booking System</h3>
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img style="margin: 10px" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img style="margin: 10px" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<br><br>
-<p><strong>Ministry Project • Government Solution</strong></p>
-<p>Complete booking management system with real-time availability, user authentication, and administrative controls.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🌐 Portfolio Website</h3>
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<br><br>
-<p><strong>Personal Project • Live Demo</strong></p>
-<p>Modern, responsive portfolio showcasing projects, skills, and professional journey with interactive elements.</p>
-<a href="https://gayankv-profile.vercel.app/" target="_blank">🔗 Live Demo</a>
-</div>
 </td>
 </tr>
 </table>
 
-</div>
-
-<!-- Connect Section with Modern Style -->
 <div align="center">
 
-## 🤝 Let's Connect & Build Together
+## 🚀 Technology Spectrum
 
+<!-- Glassmorphism-style tech grid -->
+<div align="center">
+
+### Frontend Universe
 <p>
-<a href="https://linkedin.com/in/gayan kavinda">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-<a href="https://gayankv-profile.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
-</a>
-<a href="mailto:gayankavinda98v.lk@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-<a href="https://instagram.com/gayan_kavind">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
-</a>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=20232a" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=2c3e50" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2d79c7" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0f172a" />
 </p>
 
-### 💼 Open for Opportunities
-```
-📧 gayankavinda98v.lk@gmail.com
-🌐 https://gayankv-profile.vercel.app/
-📄 Resume: Available on request
-💡 Status: Open to collaborate on exciting projects!
+### Backend Dimension  
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8b0000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2d5a2d" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=4f4f7a" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=8b0049" />
+</p>
+
+### Data Realm
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2d5a87" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2d5a2f" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=f57c00" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=8b1a1a" />
+</p>
+
+### Cloud Galaxy
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a5490" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1e4a73" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000" />
+</p>
+
+</div>
+
+## 📊 Performance Analytics
+
+<!-- Beautiful stats with glassmorphism theme -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GayanKavinda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GayanKavinda&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c63ff&ring=6c63ff&fire=fbbf24&currStreakLabel=6c63ff" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanKavinda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=GayanKavinda&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c63ff&line=6c63ff&point=fbbf24" />
+</div>
+
+## 🎯 Current Mission
+
+</div>
+
+<div align="center">
+  
+```diff
++ 🚀 Building ICTA Room Booking System for Ministry of Digital Economy
++ 📚 Mastering AWS Solutions Architecture
++ 🌟 Contributing to Open Source Projects
++ 💡 Exploring AI/ML Integration in Web Development
++ 🎨 Perfecting UI/UX Design Skills
 ```
 
 </div>
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,20:4ECDC4,40:45B7D1,60:96CEB4,80:FECA57,100:FF9FF3&height=120&section=footer"/>
-</div>
+
+## 🌟 Featured Work
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🏢 ICTA Booking System
+**Government Project**
+
+<img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=flat-square&logo=laravel" />
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/AWS-Deployed-232F3E?style=flat-square&logo=amazon-aws" />
+
+*Enterprise-level room booking solution with real-time availability, multi-user access, and comprehensive admin controls.*
+
+</td>
+<td width="33%" align="center">
+
+### 🌐 Portfolio Website
+**Personal Project**
+
+<img src="https://img.shields.io/badge/React-Framework-61DAFB?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/Tailwind-Styling-06B6D4?style=flat-square&logo=tailwind-css" />
+<img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel" />
+
+*Modern, responsive showcase with interactive elements and smooth animations.*
+
+**[🔗 Live Demo](https://gayankv-profile.vercel.app/)**
+
+</td>
+<td width="33%" align="center">
+
+### 🔮 Future Projects
+**Coming Soon**
+
+<img src="https://img.shields.io/badge/SaaS-Platform-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Integration-FF6B9D?style=flat-square" />
+<img src="https://img.shields.io/badge/Open-Source-22C55E?style=flat-square" />
+
+*Innovative solutions combining cloud technologies with modern development practices.*
+
+</td>
+</tr>
+</table>
+
+## ⚡ Quick Connect
+
+<p>
+  <a href="https://linkedin.com/in/gayan kavinda">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" />
+  </a>
+  <a href="https://gayankv-profile.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Projects-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=5b21b6" />
+  </a>
+  <a href="mailto:gayankavinda98v.lk@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c5221f" />
+  </a>
+</p>
+
+### 💬 Available For
+- 🤝 **Collaborations** on innovative web projects
+- 🚀 **Consulting** on full-stack development
+- 💡 **Mentoring** junior developers
+- 🌟 **Open Source** contributions
+
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect+and+build+amazing+things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=18&pause=1000" />
+  
+*"Code is poetry written for machines to understand and humans to maintain"*
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!+%F0%9F%8C%9F;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1&font=SF+Pro+Display&center=true&width=500&height=50&color=6c63ff&size=16&pause=2000" />
+
+</div>
+
+</div>
+
+<!-- Glassmorphism Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
 </div>
