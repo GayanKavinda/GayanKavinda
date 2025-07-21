@@ -34,7 +34,7 @@
 ### 🎨 Creative Side
 ```css
 .gayan-frontend {
-  framework: ["React", "Vue.js"];
+  framework: ["React", "Vue.js", "Wordpress"];
   styling: ["Tailwind CSS", "SASS", "Bootstrap"];
   design: ["Figma", "Adobe Creative Suite"];
   animation: ["Framer Motion", "CSS Animations"];
@@ -45,8 +45,7 @@
 ### ☁️ Cloud Architecture
 ```yaml
 cloud_platforms:
-  - AWS: "Solutions Architecture"
-  - Azure: "DevOps & Deployment"
+  - AWS: "EC2 Deployment"
   - Docker: "Containerization"
   
 infrastructure:
@@ -61,11 +60,11 @@ infrastructure:
 ### ⚡ Backend Power
 ```javascript
 const backendSkills = {
-  languages: ["PHP", "JavaScript", "Python"],
+  languages: ["PHP", "JavaScript"],
   frameworks: ["Laravel", "Node.js", "Express"],
-  databases: ["MySQL", "MongoDB", "Firebase"],
+  databases: ["MySQL", "MongoDB", "Firebase", Postgres],
   apis: ["REST", "GraphQL"],
-  testing: ["Unit Testing", "Integration Testing"]
+  testing: ["Cypress [E2E]", "Unit Testing", "Integration Testing"]
 };
 ```
 
@@ -73,9 +72,9 @@ const backendSkills = {
 ```bash
 # Daily toolkit
 - Version Control: Git & GitHub
-- API Testing: Postman, Insomnia  
-- Project Management: Jira, Trello
-- Code Editor: VS Code
+- API Testing: Postman  
+- Project Management: Jira
+- Code Editor: VS Code, Cursor AI
 - Terminal: iTerm2 with Oh My Zsh
 ```
 
@@ -145,7 +144,7 @@ const backendSkills = {
   
 ```diff
 + 🚀 Building ICTA Room Booking System for Ministry of Digital Economy
-+ 📚 Mastering AWS Solutions Architecture
++ 📚 Mastering Web Development Skills
 + 🌟 Contributing to Open Source Projects
 + 💡 Exploring AI/ML Integration in Web Development
 + 🎨 Perfecting UI/UX Design Skills
