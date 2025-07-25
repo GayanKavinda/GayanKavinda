@@ -161,8 +161,7 @@ const backendSkills = {
 **Government Project**
 
 <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=flat-square&logo=laravel" />
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/AWS-Deployed-232F3E?style=flat-square&logo=amazon-aws" />
+<img src="https://img.shields.io/badge/Tailwind-Style-61DAFB?style=flat-square&logo=react" />
 
 *Enterprise-level room booking solution with real-time availability, multi-user access, and comprehensive admin controls.*
 
