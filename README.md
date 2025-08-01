@@ -1,6 +1,6 @@
 <!-- Glassmorphism Style Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Gayan%20Kavinda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Cloud%20Engineer&descSize=16&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Gayan%20Kavinda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Developer%20&descSize=16&descAlignY=55" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
   <p>
     <img src="https://img.shields.io/badge/🌍_Based_in-Sri_Lanka-4f46e5?style=for-the-badge&labelColor=312e81&color=6366f1" />
     <img src="https://img.shields.io/badge/💼_Experience-1+_Years-10b981?style=for-the-badge&labelColor=166534&color=22c55e" />
-    <img src="https://img.shields.io/badge/🎯_Focus-Full_Stack-f59e0b?style=for-the-badge&labelColor=92400e&color=fbbf24" />
+    <img src="https://img.shields.io/badge/🎯_Focus-Web_Development-f59e0b?style=for-the-badge&labelColor=92400e&color=fbbf24" />
   </p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=gayankavinda&color=6366f1&style=for-the-badge&label=Profile+Views)
@@ -62,7 +62,7 @@ infrastructure:
 const backendSkills = {
   languages: ["PHP", "JavaScript"],
   frameworks: ["Laravel", "Node.js", "Express"],
-  databases: ["MySQL", "MongoDB", "Firebase", Postgres],
+  databases: ["MySQL", "MongoDB", "Firebase", "Postgres"],
   apis: ["REST", "GraphQL"],
   testing: ["Cypress [E2E]", "Unit Testing", "Integration Testing"]
 };
@@ -71,11 +71,11 @@ const backendSkills = {
 ### 🔧 Development Tools
 ```bash
 # Daily toolkit
-- Version Control: Git & GitHub
+- Version Control:  GitHub
 - API Testing: Postman  
 - Project Management: Jira
 - Code Editor: VS Code, Cursor AI
-- Terminal: iTerm2 with Oh My Zsh
+- Prompting: AI
 ```
 
 </td>
@@ -101,7 +101,6 @@ const backendSkills = {
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8b0000" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2d5a2d" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=4f4f7a" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=8b0049" />
 </p>
 
 ### Data Realm
@@ -142,7 +141,7 @@ const backendSkills = {
 ```diff
 + 🚀 Building ICTA Room Booking System for Ministry of Digital Economy
 + 📚 Mastering Web Development Skills
-+ 🌟 Contributing to Open Source Projects
++ 🌟 Learning through Youtube
 + 💡 Exploring AI/ML Integration in Web Development
 + 🎨 Perfecting UI/UX Design Skills
 ```
@@ -210,9 +209,8 @@ const backendSkills = {
 </p>
 
 ### 💬 Available For
+
 - 🤝 **Collaborations** on innovative web projects
-- 🚀 **Consulting** on full-stack development
-- 💡 **Mentoring** junior developers
 - 🌟 **Open Source** contributions
 
 ---
