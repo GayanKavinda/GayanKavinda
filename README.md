@@ -206,6 +206,9 @@ const backendSkills = {
   <a href="mailto:gayankavinda98v.lk@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c5221f" />
   </a>
+  <a href="https://campsite.bio/gayankav">
+    <img src="https://img.shields.io/badge/🧲_Campsite-All_in_One-6C63FF?style=for-the-badge&logo=codemagic&logoColor=white&labelColor=5b21b6" />
+  </a>
 </p>
 
 ### 💬 Available For
