@@ -142,7 +142,7 @@ const backendSkills = {
 + 🚀 Building ICTA Room Booking System for Ministry of Digital Economy
 + 📚 Mastering Web Development Skills
 + 🌟 Learning through Youtube
-+ 💡 Exploring AI/ML Integration in Web Development
++ 💡 Exploring AI Integration in Web Development
 + 🎨 Perfecting UI/UX Design Skills
 ```
 
