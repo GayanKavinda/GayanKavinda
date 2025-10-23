@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-Full-stack developer specializing in building robust web applications with Laravel and modern JavaScript frameworks. Currently developing enterprise solutions for the **Sri Lanka Telecom Services**, focusing on creating efficient, user-centric systems that solve real-world problems.
+Full-stack developer specializing in building robust web applications with Laravel and modern JavaScript frameworks. Currently developing enterprise solutions for the **Ministry of Digital Economy**, focusing on creating efficient, user-centric systems that solve real-world problems.
 
 **What I bring:**
 - Production-grade applications serving government institutions
@@ -190,10 +190,14 @@ Modern portfolio showcasing technical capabilities.
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GayanKavinda&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanKavinda&layout=compact&theme=default&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GayanKavinda&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=6c63ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanKavinda&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=8" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GayanKavinda&theme=default&hide_border=true" />
+<img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=GayanKavinda&theme=radical&hide_border=true&background=0d1117&stroke=6c63ff&ring=6c63ff&fire=fbbf24&currStreakLabel=6c63ff&sideLabels=c9d1d9&dates=8b949e" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GayanKavinda&theme=react-dark&hide_border=true&bg_color=0d1117&color=6c63ff&line=6c63ff&point=fbbf24&area=true&area_color=6c63ff" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=GayanKavinda&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 </div>
 
