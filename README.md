@@ -164,7 +164,6 @@ Full-stack developer specializing in building robust web applications with Larav
   ],
   apis: [
     "RESTful APIs",
-    "GraphQL"
   ],
   testing: [
     "PHPUnit",
@@ -178,6 +177,7 @@ Full-stack developer specializing in building robust web applications with Larav
 ```yaml
 cloud_platforms:
   - AWS EC2
+  - Netlify
   - Vercel
   - Firebase Hosting
   
@@ -211,7 +211,8 @@ practices:
     "Alpine.js",
     "Framer Motion",
     "React Router",
-    "Vuex/Pinia"
+    "Vuex/Pinia",
+    "ShadCN UI"
   ],
   testing: [
     "Cypress (E2E)",
@@ -230,13 +231,16 @@ Git | GitHub | GitLab
 Postman | Insomnia
 
 # Project Management  
-Jira | Trello
+Jira | Trello | Azure Boards
 
 # Code Editors
-VS Code | Cursor AI
+VS Code | Cursor AI | Antigravity
 
 # Design Tools
 Figma | Adobe XD | Photoshop
+
+# CLI
+Claude | Gemini
 ```
 
 </td>
